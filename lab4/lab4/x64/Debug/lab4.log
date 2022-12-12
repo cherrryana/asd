@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\Users\Asus\source\repos\lab4\lab4\lab4.cpp(7,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\source\repos\lab4\lab4\lab4.cpp(16,17): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  lab4.vcxproj -> C:\Users\Asus\source\repos\lab4\x64\Debug\lab4.exe
